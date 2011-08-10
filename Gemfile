@@ -12,7 +12,7 @@ gem 'sqlite3-ruby', :require => 'sqlite3'
 gem 'rspec-rails', :group => [:test, :development]
 gem 'sample_models', :group => [:test, :development]
 gem 'bcrypt-ruby', :require => 'bcrypt'
-
+gem 'rb-fsevent'
 group :test do
   gem "factory_girl_rails"
   gem "capybara"
