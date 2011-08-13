@@ -1,0 +1,4 @@
+* add login page
+* see authentication railscasts @ 8:00
+* add add authentication to certain pages 
+
