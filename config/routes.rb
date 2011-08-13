@@ -1,4 +1,6 @@
 Restful::Application.routes.draw do
+  get "sessions/new"
+
   # The priority is based upon order of creation:
   # first created -> highest priority.
 
